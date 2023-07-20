@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "django_settings": "TCC.settings",
+        "profile_name": "developer",
+        "project_name": "tcc",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-fovhzijn2",
+        "aws_region": "us-east-1"
+    }
+}
